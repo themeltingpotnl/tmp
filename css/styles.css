@@ -33,3 +33,25 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 }
+
+.landing {
+	background-color: #036460;
+	padding: 2em;
+	display: flex;
+    justify-content: center
+}
+
+.landing-logo {
+	position: absolute;
+	left: 50px;
+	margin-left: 100px;
+}
+
+.landing-h1 h1 {
+	font-family: 'Averia Serif Libre', cursive;
+	color: #FBCEA4;
+	font-size: 3.5em;
+	position: absolute;
+	right: 150px;
+	margin-left: 100px;
+}
