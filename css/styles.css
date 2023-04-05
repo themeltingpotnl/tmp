@@ -1,6 +1,7 @@
 /* Importing a Google Font */
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@700&display=swap');
 
 /* Changing the main font and background colour */
 
@@ -42,9 +43,13 @@ footer a:hover {
 .landing-logo {
 }
 
-.landing-h1 h1 {
+
+.about {
+	padding: 2em;
+}
+
+.about h1 {
 	font-family: 'Averia Serif Libre', cursive;
-	color: #FBCEA4;
+	color: #036460;
 	font-size: 3.5em;
-	margin-left: 100px;
 }
