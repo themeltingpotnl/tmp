@@ -1,12 +1,12 @@
 /* Importing a Google Font */
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@700&display=swap');
 
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
+	font-family: "Open sans", sans-serif;
 	background-color: #fffcf8;
 }
 
@@ -53,3 +53,4 @@ footer a:hover {
 	color: #036460;
 	font-size: 3.5em;
 }
+
