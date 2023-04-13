@@ -66,6 +66,11 @@ footer a:hover {
 	font-size: 3.5em;
 }
 
+.values {
+	margin-bottom: 15px;
+}
+
+
 .container{
 	padding-top: 2em;
 	padding-bottom: 2em;
@@ -81,4 +86,34 @@ footer a:hover {
 .container h2 {
 	font-family: 'Montserrat', cursive;
 	color: #472412;
+}
+
+.container h4 {
+	font-family: 'Montserrat', cursive;
+	color: #472412;
+}
+
+.container-1{
+	padding-top: 0em;
+	padding-bottom: 5em;
+}
+
+.col1 {
+	background-color: #037671;
+	padding: 25px;
+}
+
+.col2 {
+	background-color: #FBCEA4;
+	padding: 25px;
+}
+
+.col3 {
+	background-color: #AFCAC1;
+	padding: 25px;
+}
+
+.col4 {
+	background-color: #F49737;
+	padding: 25px;
 }
