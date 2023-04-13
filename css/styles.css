@@ -88,7 +88,7 @@ footer a:hover {
 	color: #472412;
 }
 
-.container h4 {
+h4 {
 	font-family: 'Montserrat', cursive;
 	color: #472412;
 }
@@ -116,4 +116,8 @@ footer a:hover {
 .col4 {
 	background-color: #F49737;
 	padding: 25px;
+}
+
+.team h1{
+	margin-bottom: 0px;
 }
