@@ -11,11 +11,6 @@ body {
 	background-color: #fffcf8;
 }
 
-/* Changing the background colour for the header */
-
-header {
-	background-color: #000060;
-}
 
 /* Changing the background color for the navigation bar */
 
@@ -36,15 +31,40 @@ footer a:hover {
 	font-weight: bold;
 }
 
+.carousel-item h1{
+	font-family: 'Averia Serif Libre', cursive;
+	color: #FFF6EC;
+	font-size: 4em;
+	text-shadow: 2px 2px 4px #2e2e2e;
+}
 
-.landing {
+.carousel-item h2{
+	font-family: 'Averia Serif Libre', cursive;
+	color: #FFF6EC;
+	font-size: 3em;
+	text-shadow: 2px 2px 4px #2e2e2e;
+}
+
+.landing-1 {
 	padding: 3em;
 	background-color:#C4D8D1;
 }
 
-.landing h1 {
+.landing-1 h1 {
 	font-family: 'Averia Serif Libre', cursive;
 	color: #036460;
+	font-size: 3.5em;
+}
+
+.landing-2 {
+	padding: 3em;
+	background-color: #F49737;
+	color: #000000;
+}
+
+.landing-2 h1 {
+	font-family: 'Averia Serif Libre', cursive;
+	color: #FBCEA4;
 	font-size: 3.5em;
 }
 
@@ -54,16 +74,6 @@ footer a:hover {
 
 .who-2{
 	margin-top: 55px;
-}
-
-.landing-2 {
-	padding: 3em;
-}
-
-.landing-2 h1 {
-	font-family: 'Averia Serif Libre', cursive;
-	color: #036460;
-	font-size: 3.5em;
 }
 
 .values {
@@ -120,4 +130,20 @@ h4 {
 
 .team h1{
 	margin-bottom: 0px;
+}
+
+.corporate {
+	padding: 1em;
+	background-color: #036460;
+}
+
+.corporate h1 {
+	font-family: 'Averia Serif Libre', cursive;
+	color: #fbcea4;
+	font-size: 3.5em;
+	margin-bottom: 25px;
+}
+
+.nav-link {
+	color: #036460;
 }
