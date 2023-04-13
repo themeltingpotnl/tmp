@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
 /* Changing the main font and background colour */
 
@@ -38,12 +39,21 @@ footer a:hover {
 
 .landing {
 	padding: 3em;
+	background-color:#C4D8D1;
 }
 
 .landing h1 {
 	font-family: 'Averia Serif Libre', cursive;
 	color: #036460;
 	font-size: 3.5em;
+}
+
+.who-1{
+	margin-right: 10px;
+}
+
+.who-2{
+	margin-top: 55px;
 }
 
 .landing-2 {
@@ -54,4 +64,21 @@ footer a:hover {
 	font-family: 'Averia Serif Libre', cursive;
 	color: #036460;
 	font-size: 3.5em;
+}
+
+.container{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.container h1 {
+	font-family: 'Averia Serif Libre', cursive;
+	color: #036460;
+	font-size: 3.5em;
+	margin-bottom: 25px;
+}
+
+.container h2 {
+	font-family: 'Montserrat', cursive;
+	color: #472412;
 }
