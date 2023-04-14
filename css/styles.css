@@ -68,6 +68,11 @@ footer a:hover {
 	font-size: 3.5em;
 }
 
+.event {
+	margin-right: 25px;
+	margin-top: 10px;
+}
+
 .who-1{
 	margin-right: 10px;
 }
@@ -103,6 +108,12 @@ h4 {
 	color: #472412;
 }
 
+h5{
+	font-family: 'Montserrat', cursive;
+	font-size: 1em;
+	color: #FFF6EC;
+}
+
 .container-1{
 	padding-top: 0em;
 	padding-bottom: 5em;
@@ -132,16 +143,16 @@ h4 {
 	margin-bottom: 0px;
 }
 
-.corporate {
+header {
 	padding: 1em;
 	background-color: #036460;
 }
 
-.corporate h1 {
+header h1{
 	font-family: 'Averia Serif Libre', cursive;
 	color: #fbcea4;
 	font-size: 3.5em;
-	margin-bottom: 25px;
+	margin-bottom: 20px;
 }
 
 .nav-link {
